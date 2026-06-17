@@ -1,0 +1,35 @@
+# Ignore WordPress config
+wp-config.php
+
+# Ignore temporary diagnostic scripts at the root level
+/check_*.php
+/diagnose_*.php
+/find_*.php
+/fix_*.php
+/force_*.php
+/get_*.php
+/import_*.php
+/inject_*.php
+/inspect_*.php
+/prepare_*.php
+/print_*.php
+/run_*.php
+/test_*.php
+/configure_*.php
+/fetch_*.php
+/upload_*.php
+/khumaira-live-configurator.php
+
+# Ignore logs, zips, text files, and images
+*.zip
+*.log
+*.png
+*.jpg
+*.txt
+cookie.txt
+
+# OS/IDE metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
