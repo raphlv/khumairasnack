@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-# ðŸ¿ Khumaira Snack â€” UMKM Food E-Commerce Platform
+#  Khumaira Snack " UMKM Food E-Commerce Platform
 
 ### *Online Food Ordering, Catalog Management, & Automated Shipping Integration*
 
@@ -14,32 +14,32 @@
 
 </div>
 
-## ðŸ“Œ About Khumaira Snack
+## " About Khumaira Snack
 
 **Khumaira Snack** is an e-commerce platform specifically built for food UMKM businesses. It enables customers to browse snack products, select custom weight packages, calculate automated shipping costs across Indonesian cities, and checkout seamlessly via WhatsApp or online payment.
 
 ---
 
-## âœ¨ Key Features
+##  Key Features
 
-### ðŸ›ï¸ 1. Interactive Snack Catalog & Custom Packaging
+###  1. Interactive Snack Catalog & Custom Packaging
 - Category filtering (Spicy Snacks, Savory Chips, Sweet Pastries).
 - Weight variant selection (100g, 250g, 500g, 1kg) with dynamic price adjustment.
 - High-res product image gallery with stock indicators.
 
-### ðŸšš 2. Automated Shipping Calculation (RajaOngkir API)
+###  2. Automated Shipping Calculation (RajaOngkir API)
 - Real-time courier tariff calculation (JNE, POS, TIKI, J&T).
 - Destination origin-to-city postal code lookup.
 - Airway Bill (Resi) tracking for dispatched customer orders.
 
-### ðŸ“± 3. Direct WhatsApp & Online Checkout
+### " 3. Direct WhatsApp & Online Checkout
 - Automated WhatsApp order payload generation with itemized list and total price.
 - Admin dashboard to update order status (Pending, Paid, Packaged, Shipped).
 - Sales revenue & monthly order analytics charts.
 
 ---
 
-## ðŸš€ Installation & Setup
+##  Installation & Setup
 
 `ash
 git clone https://github.com/raphlv/khumairasnack.git
@@ -58,12 +58,12 @@ php artisan serve
 
 ---
 
-## ðŸ“ License & Author
+## " License & Author
 
 Distributed under the **MIT License**.
 
-ðŸ‘¤ **Author**: [Pangeran Ryan Pahlevi](https://github.com/raphlv)  
-âœ‰ï¸ **Email**: [pangeranryan080504@gmail.com](mailto:pangeranryan080504@gmail.com)  
+' **Author**: [Pangeran Ryan Pahlevi](https://github.com/raphlv)  
+ **Email**: [pangeranryan080504@gmail.com](mailto:pangeranryan080504@gmail.com)  
 
 ---
 <div align="center">
