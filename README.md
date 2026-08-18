@@ -1,8 +1,8 @@
 <div align="center">
 
-#  Khumaira Snack " UMKM Food E-Commerce Platform
+# Khumaira Snack - UMKM Food E-Commerce Platform
 
-### *Online Food Ordering, Catalog Management, & Automated Shipping Integration*
+### *Online Food Ordering, Catalog Management, and Automated Shipping Integration*
 
 ![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -14,32 +14,32 @@
 
 </div>
 
-## " About Khumaira Snack
+## Overview
 
-**Khumaira Snack** is an e-commerce platform specifically built for food UMKM businesses. It enables customers to browse snack products, select custom weight packages, calculate automated shipping costs across Indonesian cities, and checkout seamlessly via WhatsApp or online payment.
+Khumaira Snack is an e-commerce platform specifically built for food UMKM businesses. It enables customers to browse snack products, select custom weight packages, calculate automated shipping costs across Indonesian cities, and checkout seamlessly via WhatsApp or online payment.
 
 ---
 
-##  Key Features
+## Key Features
 
-###  1. Interactive Snack Catalog & Custom Packaging
+### 1. Interactive Snack Catalog and Custom Packaging
 - Category filtering (Spicy Snacks, Savory Chips, Sweet Pastries).
 - Weight variant selection (100g, 250g, 500g, 1kg) with dynamic price adjustment.
 - High-res product image gallery with stock indicators.
 
-###  2. Automated Shipping Calculation (RajaOngkir API)
+### 2. Automated Shipping Calculation (RajaOngkir API)
 - Real-time courier tariff calculation (JNE, POS, TIKI, J&T).
 - Destination origin-to-city postal code lookup.
 - Airway Bill (Resi) tracking for dispatched customer orders.
 
-### " 3. Direct WhatsApp & Online Checkout
+### 3. Direct WhatsApp and Online Checkout
 - Automated WhatsApp order payload generation with itemized list and total price.
 - Admin dashboard to update order status (Pending, Paid, Packaged, Shipped).
-- Sales revenue & monthly order analytics charts.
+- Sales revenue and monthly order analytics charts.
 
 ---
 
-##  Installation & Setup
+## Installation and Setup
 
 `ash
 git clone https://github.com/raphlv/khumairasnack.git
@@ -58,14 +58,14 @@ php artisan serve
 
 ---
 
-## " License & Author
+## License and Author
 
-Distributed under the **MIT License**.
+Distributed under the MIT License.
 
-' **Author**: [Pangeran Ryan Pahlevi](https://github.com/raphlv)  
- **Email**: [pangeranryan080504@gmail.com](mailto:pangeranryan080504@gmail.com)  
+Author: Pangeran Ryan Pahlevi (https://github.com/raphlv)  
+Email: pangeranryan080504@gmail.com  
 
 ---
 <div align="center">
-  <sub>Automated Sync Enabled for Contribution Tracking | Last Updated: 2026-08-18 14:37:15</sub>
+  <sub>Automated Sync Enabled for Contribution Tracking | Last Updated: 2026-08-18 14:40:47</sub>
 </div>
