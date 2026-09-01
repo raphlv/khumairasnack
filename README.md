@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-# ðŸ¿ Khumaira Snack â€” UMKM Food E-Commerce Platform
+# Khumaira Snack â€” UMKM Food E-Commerce Platform
 
 ### *Custom Weight Packaging, RajaOngkir Automated Shipping, & WhatsApp Gateway*
 
@@ -13,9 +13,14 @@
 
 </div>
 
-## ðŸ“Œ About The Project
+## About The Project
 
 Food UMKM online store featuring flexible weight variant ordering (100g, 250g, 500g, 1kg), dynamic courier calculation (JNE, POS, TIKI, J&T), and direct WhatsApp order payload checkout.
 
-<!-- Last verified & polished: 2026-09-01 13:08:36 by Pangeran Ryan Pahlevi -->
+---
+
+## Developer and Maintainer
+Pangeran Ryan Pahlevi â€” https://pangeranryan.vercel.app
+
+<!-- Last verified: 2026-09-01 13:10:43 by Pangeran Ryan Pahlevi -->
 
