@@ -19,5 +19,38 @@ Food UMKM online store featuring flexible weight variant ordering (100g, 250g, 5
 
 ---
 
+## Key Features
+
+- Weight-Based Pricing: Dynamically updates cart total based on selected gram weight packages.
+- Automated Shipping Calculation: Integrates RajaOngkir API for origin-to-destination courier rate calculation.
+- WhatsApp Direct Order: Generates pre-formatted WhatsApp chat payloads with customer items, address, and total.
+- Admin Inventory & Revenue Dashboard: Sales charts, top-selling snack items, and order status updates.
+
+---
+
+## Technology Stack
+
+- Backend: Laravel 10 (PHP 8.2)
+- Database: MySQL 8.0
+- External API: RajaOngkir Shipping Gateway
+- Frontend: Bootstrap 5.3
+
+---
+
+## Getting Started
+
+`ash
+git clone https://github.com/raphlv/khumairasnack.git
+cd khumairasnack
+composer install
+npm install && npm run build
+cp .env.example .env
+php artisan key:generate
+php artisan migrate --seed
+php artisan serve
+`
+
+---
+
 ## Developer and Maintainer
 Pangeran Ryan Pahlevi - https://pangeranryan.vercel.app
